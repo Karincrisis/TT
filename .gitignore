@@ -45,3 +45,9 @@ env/
 # ==============================
 .DS_Store
 Thumbs.db
+
+# Captions generados / datos derivados
+data/captions/captions.csv
+
+# Dataset local de trabajo
+data/
